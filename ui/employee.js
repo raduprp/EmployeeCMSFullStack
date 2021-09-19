@@ -1,1 +1,1 @@
-const home={template:`<h1>This is Employee page</h1>`}
+const employee={template:`<h1>This is Employee page</h1>`}

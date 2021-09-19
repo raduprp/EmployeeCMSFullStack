@@ -1,6 +1,6 @@
 const routes=[
     {path:'/home', component:home},
-    {path:'/employee', component:employee}
+    {path:'/employee', component:employee},
     {path:'/department', component:department}
 ]
 
